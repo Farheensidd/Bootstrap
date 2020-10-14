@@ -1,0 +1,25 @@
+body{
+    background: url(pic1.jpg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Bangers', cursive;
+}
+
+.rowHeight{
+    height: 500px;
+}
+
+h1{
+    color: brown;
+    font-size: 2.5em;
+}
+
+.bg{
+    background-color: #f4c2c2;
+    opacity: 0.8;
+}
+
+.footer{
+    background-color: #fff;
+    position: fixed;
+    bottom: 0;
+}

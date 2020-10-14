@@ -1,0 +1,23 @@
+body{
+    background: url(cat2.png) no-repeat center center fixed;
+    background-size: cover;
+}
+
+
+
+.hero{
+    color: #FFFDD0;
+    margin-top: 27%;
+    font-size: 75px;
+    text-align: center;
+    letter-spacing: -.05em;
+    line-height: 1.2em;
+    font-family: 'Revalia', cursive;
+
+}
+
+.ima{
+    height: 100px;
+    width: 200px;
+}
+
